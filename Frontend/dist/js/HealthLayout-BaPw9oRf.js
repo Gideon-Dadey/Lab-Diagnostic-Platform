@@ -1,0 +1,1 @@
+import{j as o}from"./ui-vendor-D_YnDhxq.js";import{c as r,a as s,O as a}from"./react-vendor-B1YRfcvv.js";const e=()=>{const{pathname:e}=r();return s.useEffect(()=>{window.scrollTo({top:0,behavior:"smooth"})},[e]),o.jsx(o.Fragment,{children:o.jsx("main",{children:o.jsx(a,{})})})};export{e as default};
